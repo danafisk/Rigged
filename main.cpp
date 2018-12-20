@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
   string name;
+  // Rigged: class, lottery: the object 
   Rigged lottery;
   do
   {
